@@ -15,3 +15,5 @@ Lectura del conjunto de datos.
 Configuración de la interfaz de usuario con un encabezado principal y botones que permiten a los usuarios generar visualizaciones interactivas de los datos (histograma y gráfico de dispersión).
 Objetivo del Proyecto
 El objetivo principal de este proyecto es aplicar y demostrar habilidades de programación en Python y desarrollo de aplicaciones web, utilizando herramientas modernas como Streamlit para crear interfaces interactivas basadas en datos. Esto permitirá a los usuarios interactuar directamente con los datos y obtener insights a través de visualizaciones gráficas dinámicas. El enfoque está en la implementación técnica más que en un análisis profundo del conjunto de datos, proporcionando una plataforma que podría ser expandida o modificada para futuros proyectos o datasets similares.
+
+https://sprint-5-diua.onrender.com
