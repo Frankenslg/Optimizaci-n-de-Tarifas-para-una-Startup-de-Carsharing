@@ -1,5 +1,5 @@
 # Optimización de Tarifas para una Startup de Carsharing
-El proyecto en el que estás trabajando consiste en desarrollar una aplicación web interactiva usando Streamlit, que permitirá a los usuarios explorar un conjunto de datos de anuncios de venta de coches mediante visualizaciones gráficas. 
+El proyecto consiste en desarrollar una aplicación web interactiva usando Streamlit, que permitirá a los usuarios explorar un conjunto de datos de anuncios de venta de coches mediante visualizaciones gráficas. 
 Paso 1: Configuración
 Preparativos Iniciales: Crear una cuenta en GitHub y en Render.com para alojar el repositorio del proyecto y facilitar el despliegue de la aplicación.
 Entorno de Desarrollo: Configuración de un entorno virtual (vehicles_env) para el manejo de dependencias específicas del proyecto, como pandas, streamlit, y plotly-express, que son cruciales para el análisis de datos y el desarrollo de la aplicación web.
